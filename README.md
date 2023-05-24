@@ -1,4 +1,4 @@
-# [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/ivan-becerra-dev/) # 👋 Hola, Soy Iván Becerra 
+[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/ivan-becerra-dev/) # 👋 Hola, Soy Iván Becerra 
 
 ## Desarrollador Full Stack
 
