@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
 <div>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 </div>
 <div style="margin-left: 30px">
 <h1>
