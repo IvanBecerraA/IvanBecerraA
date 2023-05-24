@@ -1,12 +1,12 @@
 # 👋 Hola, Soy Iván Becerra
 
-## Desarrollador Full Stack
+## Desarrollador Full Stack 💻💪
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
 
-### Soy un profesional especializado en desarrollo full stack y tengo una formación académica como ingeniero en informática. 
-### Mi objetivo es convertirme en un programador internacional y para ello, me esfuerzo cada día en mejorar mis habilidades y conocimientos. A lo largo de mis estudios formales y autodidactas, he adquirido una sólida base teórica y práctica que me permite colaborar eficientemente en proyectos de desarrollo de software. Además, mi perseverancia y ganas de aprender me ayudan a alcanzar los objetivos que me propongo.
-### Estoy entusiasmado y motivado por formar parte de una empresa de desarrollo de software donde pueda seguir aprendiendo y contribuir al máximo a la organización. Creo que mi perfil de desarrollador full stack y mi actitud proactiva serán un gran aporte para cualquier proyecto en el que participe.
+### Soy un profesional especializado en desarrollo full stack y tengo una formación académica 🎓 como ingeniero en informática . Mi objetivo 🎯 es convertirme en un programador internacional y para ello, me esfuerzo cada día en mejorar mis habilidades y conocimientos 📝📈.
+### A lo largo de mis estudios formales y autodidactas 🤓, he adquirido una sólida base teórica y práctica que me permite colaborar eficientemente en proyectos de desarrollo de software 😉. Además, mi perseverancia y ganas de aprender me ayudan a alcanzar los objetivos que me propongo.
+### 😃 Estoy entusiasmado y motivado por formar parte de una empresa de desarrollo de software donde pueda seguir aprendiendo y contribuir al máximo a la organización 🤝💼. Creo que mi perfil de desarrollador full stack y mi actitud proactiva serán un gran aporte para cualquier proyecto en el que participe 🚀👨‍💻.
 <!--
 **IvanBecerraA/IvanBecerraA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
