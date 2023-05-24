@@ -53,14 +53,16 @@
 </details>
 
 <details open>
-  <summary><h2>Mis Stats:</h2></summary>
+  <summary><h2>🔥 Mis Stats:</h2></summary>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=IvanBecerraA&theme=highcontrast&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanBecerraA&show_icons=true&theme=dark)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBecerraA)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com?user=IvanBecerraA&theme=monokai-metallian&hide_border=true"/>
+   </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api?username=IvanBecerraA&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBecerraA&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  
   <b>Nota:</b> Los lenguajes principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
 
 </details>
