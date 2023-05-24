@@ -1,9 +1,8 @@
-# 👋 Hola, Soy Iván Becerra
-## Desarrollador Full Stack 
+# 👋 Hola, Soy Iván Becerra [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/ivan-becerra-dev/)
 
-[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/ivan-becerra-dev/)
+## Desarrollador Full Stack
 
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![#](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 <!--
 **IvanBecerraA/IvanBecerraA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
