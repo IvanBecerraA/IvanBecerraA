@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div>
-<h1>Hola, Soy Iván</h1>
+<h1>Hola, Soy Iván Becerra</h1>
+  <h2>Desarrollador Full Stack</h2>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </div>
 
