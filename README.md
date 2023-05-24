@@ -4,10 +4,14 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Desarrollador+Full+Stack+%F0%9F%92%BB%F0%9F%92%AA;Siempre+aprendiendo+cosas+nuevas+%F0%9F%A4%93;Profesional+y+Autodidacta+%F0%9F%98%8E" />
+  <a href="https://www.linkedin.com/in/ivan-becerra-dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&width=435&lines=Desarrollador+Full+Stack+%F0%9F%92%BB%F0%9F%92%AA;Siempre+aprendiendo+cosas+nuevas+%F0%9F%A4%93;Profesional+y+Autodidacta+%F0%9F%98%8E" />
+   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+  <a href="https://www.linkedin.com/in/ivan-becerra-dev/">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+  </a>
 </p>
 <details open>
   <summary><h2>😎 Sobre mí:</h2></summary>
