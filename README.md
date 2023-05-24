@@ -1,5 +1,5 @@
 # 👋 Hola, Soy Iván Becerra
-## Desarrollador Full Stack
+## Desarrollador Full Stack [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg "LinkedIn")](https://www.linkedin.com/in/ivan-becerra-dev/ "LinkedIn")
 ![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!--
