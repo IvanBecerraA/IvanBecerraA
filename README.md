@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivan-becerra-dev/">
+  <a href="https://www.linkedin.com/in/ivan-becerra-dev/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&repeat=false&width=435&lines=Hola+%F0%9F%91%8B+Soy+Iv%C3%A1n+Becerra" />
   </a>
 </p>
