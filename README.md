@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+<div style="display: flex; align-items: center;">
+<div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
+<div style="margin-left: 30px">
+<h1>
+Hola, Soy Iván
+</h1>
+</div>
+</div>
+
 <!--
 **IvanBecerraA/IvanBecerraA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
